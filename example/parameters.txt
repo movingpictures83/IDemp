@@ -1,0 +1,4 @@
+barcode	barcode_sample.txt
+bfastq	I1.fastq
+r1fastq	R1.fastq
+r2fastq	R2.fastq

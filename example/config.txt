@@ -1,0 +1,2 @@
+Prefix plugins/IDemp/example/
+Plugin IDemp inputfile parameters.txt outputfile .
